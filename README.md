@@ -23,8 +23,8 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on </li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
+<li>🔭 Atualmente estou estudou Universidade  </li>
+<li>🧐 Aprendendo sobre <strong>arquiteturas sem servidor</strong>, <strong>sistemas distribuídos</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on Github</li>
 <li>📝 I <del>regulary</del> write articles on</li>
 <li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong></li>
