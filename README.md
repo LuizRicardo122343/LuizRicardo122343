@@ -43,7 +43,8 @@
 <li>🧐 Aprendendo sobre <strong>arquiteturas sem servidor</strong>
 <li>👨‍💻 A maioria dos meus projetos estão disponíveis no Github</li>
 <li>📝 Eu <del>Escrevo regularmente</del> artigos sobre</li>
-<li>💬 Envie-me uma mensagem sobre <strong>react, koa, segurança e coisas sobre nuvem</strong></li>
+<li>💬 Envie-me uma mensagem sobre <strong>System.out.println("Olá github! Seja bem-vindo"); e console.log("Olá, Mundo!");
+</strong></li>
 <li>📙 Confira meu </li>
 <li>🎉 Curiosidade: </li>
 </ul>
