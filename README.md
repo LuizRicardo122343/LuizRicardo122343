@@ -21,15 +21,15 @@
 
 <p>🍌 Não se esqueça de pegar um pouco de Potássio 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>⚡️Alguns fatos rápidos</h2>
 <ul>
 <li>🔭 Atualmente estou estudou Universidade  </li>
-<li>🧐 Aprendendo sobre <strong>arquiteturas sem servidor</strong>, <strong>sistemas distribuídos</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on Github</li>
-<li>📝 I <del>regulary</del> write articles on</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong></li>
-<li>📙 Check out my </li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
+<li>🧐 Aprendendo sobre <strong>arquiteturas sem servidor</strong>
+<li>👨‍💻 A maioria dos meus projetos estão disponíveis no Github</li>
+<li>📝 Eu <del>Escrevo regularmente</del> artigos sobre</li>
+<li>💬 Envie-me uma mensagem sobre <strong>react, koa, segurança e coisas sobre nuvem</strong></li>
+<li>📙 Confira meu </li>
+<li>🎉 Curiosidade: </li>
 </ul>
 
 
