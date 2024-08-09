@@ -1,6 +1,6 @@
-<h2>Hey 👋, I'm Luiz Ricardo</h2>
+<h2>Oi tudo bem? 👋, Eu sou Luiz Ricardo</h2>
 
-<p>I'm currently a software engineer at  and formerly at based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
+<p>Atualmente sou Análise e Desenvolvimento de Sistemas e Brasil em São Paulo. alguns ir estudar novo aprendendo alguns tentando o mundo o programação</p>
 
 
 <div align="left">
