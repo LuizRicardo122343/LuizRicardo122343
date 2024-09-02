@@ -3,8 +3,8 @@
 <p>Atualmente sou Análise e Desenvolvimento de Sistemas e Brasil em São Paulo. alguns ir estudar novo aprendendo alguns tentando o mundo o programação</p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,bootstrap,css,github,gmail,html,idea,instagram,java,js,jquery,linux,linkedin,netlify,php,py,twitter,vscode,wordpress,sqlserver," />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
 
