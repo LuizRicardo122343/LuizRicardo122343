@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,arduino,bootstrap,canva,chrome,css,discord,github,git,githubpages,html,java,javascript,linux,linkedin,netlify,nodejs,php,platformio,popos,powerpoint,python,vscode,sqlserver" />
   </a>
 </p>
 
