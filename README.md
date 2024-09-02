@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,bootstrap,css,github,gmail,html,idea,instagram,java,js,jquery,linux,linkedin,mysql,netlify,php,postgres,py,twitter,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,arduino,bootstrap,css,github,gmail,html,idea,instagram,java,js,jquery,linux,linkedin,netlify,php,py,twitter,vscode,wordpress,sqlserver" />
   </a>
 </p>
 
