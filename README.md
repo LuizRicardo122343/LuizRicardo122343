@@ -28,7 +28,7 @@
 
 <div align="left">
  <div align="center">
-   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizRicardo122343&theme=radical&layout=compact" />
 
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizRicardo122343&radius=16&theme=gruvbox&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"/>
