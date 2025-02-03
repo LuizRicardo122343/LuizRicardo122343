@@ -1,8 +1,6 @@
 
 ![github-header-image](https://github.com/user-attachments/assets/2eb42fe2-89fb-405e-b2f9-7a983e14819c)
 
-
-
 <p>Atualmente sou Análise e Desenvolvimento de Sistemas e Brasil em São Paulo. alguns ir estudar novo aprendendo alguns tentando o mundo o programação</p>
 
 <p align="center">
@@ -10,8 +8,6 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,arduino,bootstrap,canva,chrome,css,discord,github,git,githubpages,html,java,javascript,linux,linkedin,netlify,nodejs,php,platformio,popos,powerpoint,python,vscode,sqlserver" />
   </a>
 </p>
-
-
 <p>🍌 Não se esqueça de pegar um pouco de Potássio 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️Alguns fatos rápidos</h2>
@@ -24,10 +20,9 @@
 </strong></li>
 <li>📙 Confira meu (https://codepen.io/Luiz242)).
 
-
 <li>🎉 Curiosidade: </li>
 </ul>
-<div align="center">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuizRicardo122343&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizRicardo122343&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
