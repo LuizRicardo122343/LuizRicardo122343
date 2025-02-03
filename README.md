@@ -18,7 +18,7 @@
 <li>📝 Eu <del>Escrevo regularmente</del> artigos sobre</li>
 <li>💬 Envie-me uma mensagem sobre <strong>System.out.println("Olá github! Seja bem-vindo"); e console.log("Olá, Mundo!");
 </strong></li>
-<li>📙 Confira meu (https://codepen.io/Luiz242)).
+<li>📙 Confira meu (https://codepen.io/Luiz242) (https://wokwi.com/dashboard/projects).
 
 <li>🎉 Curiosidade: </li>
 </ul>
