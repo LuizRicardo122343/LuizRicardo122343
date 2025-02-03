@@ -22,7 +22,9 @@
 <li>📝 Eu <del>Escrevo regularmente</del> artigos sobre</li>
 <li>💬 Envie-me uma mensagem sobre <strong>System.out.println("Olá github! Seja bem-vindo"); e console.log("Olá, Mundo!");
 </strong></li>
-<li>📙 Confira meu <a https://codepen.io/Luiz242>link text</a>
+<li>📙 Confira meu This site was built using [GitHub Pages](https://codepen.io/Luiz242)).
+
+
 <li>🎉 Curiosidade: </li>
 </ul>
 <div align="center">
