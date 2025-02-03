@@ -22,7 +22,7 @@
 <li>📝 Eu <del>Escrevo regularmente</del> artigos sobre</li>
 <li>💬 Envie-me uma mensagem sobre <strong>System.out.println("Olá github! Seja bem-vindo"); e console.log("Olá, Mundo!");
 </strong></li>
-<li>📙 Confira meu <p><a https://codepen.io/your-work>codepen</a></p> 
+<li>📙 Confira meu <a href="codepen.io/your-work">link text</a>
 <li>🎉 Curiosidade: </li>
 </ul>
 <div align="center">
